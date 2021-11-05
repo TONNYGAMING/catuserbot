@@ -1,17 +1,17 @@
 # veron userbot
 A simple Telegram userbot based on Telethon .
 [![veron userbot logo](https://telegra.ph/file/a7b269fb57787195ae22a.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sandy1709/catuserbot)
-[![CodeFactor](https://www.codefactor.io/repository/github/sandy1709/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/sandy1709/catuserbot)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](Https://GitHub.com/x-deadshot/veron-bot)
+[![CodeFactor](https://www.codefactor.io/repository/github/sandy1709/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/x-deadshot/veron-bot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/sandy1709/catuserbot/graphs/commit-activity) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/x-deadshot/veron-bot/graphs/commit-activity) 
 ![Repo Size](https://img.shields.io/github/repo-size/sandy1709/catuserbot?&style=flat-square&logo=github)
-[![GitHub license](https://img.shields.io/github/license/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/issues)
-[![PR Open](https://img.shields.io/github/issues-pr/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/pulls?q=is:closed)
-[![GitHub contributors](https://img.shields.io/github/contributors/sandy1709/catuserbot?&style=flat-square&logo=github)](https://GitHub.com/sandy1709/catuserbot/graphs/contributors/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/x-deadshot/veron-bot/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/x-deadshot/veron-bot/issues)
+[![PR Open](https://img.shields.io/github/issues-pr/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/x-deadshot/veron-bot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/x-deadshot/veron-bot/pulls?q=is:closed)
+[![GitHub contributors](https://img.shields.io/github/contributors/sandy1709/catuserbot?&style=flat-square&logo=github)](https://GitHub.com/x-deadshot/veron-bot/graphs/contributors/)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/x-deadshot/veron-bot/graphs/commit-activity)
 [![GitHub forks](https://img.shields.io/github/forks/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/fork)
 [![GitHub stars](https://img.shields.io/github/stars/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/stargazers)
 
@@ -19,7 +19,7 @@ A simple Telegram userbot based on Telethon .
 
 ## How to deploy catuserbot
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mr-confused/nekopack)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](Https://GitHub.com/x-deadshot/veron-bot)
 
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
@@ -39,7 +39,7 @@ A simple Telegram userbot based on Telethon .
 ```
               YOU ARE FOREWARNED
 Your Telegram account may get banned.   
-Catuserbot or we are not responsible for your account, 
+Veron-bot or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -53,8 +53,3 @@ and we or our friends will try to help you.
 
 Thanks for using our bot 😺
 ```
-
-## Credits
-   - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
-   - To all devs of these [Userbots](https://github.com/sandy1709/catuserbot/tree/bugs#inspiration)
-   - Finally to all [contributors of Catuserbot](https://github.com/sandy1709/catuserbot/graphs/contributors)
