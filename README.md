@@ -21,8 +21,6 @@ A simple Telegram userbot based on Telethon .
 ### Heroku Deploy
   - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/x-deadshot/veron-bot)
 
-### Self host
-  - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
 ## Support
    <a href="https://t.me/catuserbot17"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
